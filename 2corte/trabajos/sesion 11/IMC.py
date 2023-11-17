@@ -8,7 +8,6 @@ class Estudiante:
         self.IMC=None
         self.salud=None
 
-
 def main():
     paciente=[]
     
